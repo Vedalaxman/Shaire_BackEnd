@@ -4,6 +4,7 @@ A Smart Bill Extraction and Expense Management App
 ## Deployment
 🚧 **Currently under development**  
 (Deployment link will be added once the app is live)
+🔗 [Check for updates here](https://github.com/rishitdutta/shaire)
 
 ---
 
